@@ -49,3 +49,24 @@ Lokaðar spurningar eru byggðar af opnu spurningunum til að fá meiri upplýsi
 
 ##9. Nefndu þrjú dæmi um inntakstæki.
 **Svar**: Míkrafónn, mýs, lyklaborð, teikniborð o.fl
+
+##10. 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+ Nafn | Búð | Hlutur | Verð
+ --- |:---:| :---: | ---:
+ NZXT H440 | Tölvutækni | CASE | **29.900**
+ Corsair CX600 | Att.is | PSU | **13.950**
+ Asus Z170-Pro Gaming | Att.is | MOBO | **27.855**
+ Intel Core i5 7600K | Tölvutækni | CPU | **38.900**
+ Corsair H55 | Att.is | COOLER | **12.750**
+ Corsair VEN 2x8GB 2400 | Att.is | RAM | **14.750**
+ M.2 Samsung 850 EVO 500GB | Att.is | SSD | **29.950**
+ Seagate NAS 2TB 3.5"  | Tl.is | HDD | **17.990**
+ **Heild: 248.095kr**
+ 
+ 
+154.745
+ 
+ 
