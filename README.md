@@ -66,7 +66,6 @@ fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann f
  Seagate NAS 2TB 3.5"  | Tl.is | HDD | **17.990**
  **Heild: 248.095kr**
  
- 
-154.745
+
  
  
