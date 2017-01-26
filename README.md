@@ -18,3 +18,10 @@ gögn hafa verið "skrifuð" á það.
 ###- Gera reglulegar scannanir með vírusvörn
 ###- Losa sig við ónotuð forrit og skrár
 ###- Gera reglulegar scannanir yfir harða diska 
+
+##4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+##verjast því þegar unnið er með tölvubúnað?
+**Svar**: ESD stendur fyrir "Electrostratic Discharge" ESD er þegar rafmagn byggist upp nóg stöðurafmagn
+til að það fari að leiðast í aðra hluti sem geta eyðileggst. Til að verjast ESD getum við passað okkur að
+hafa anti-static arm bönd eða snerta jarðað málmstykki hvað úr hverju þegar verið er að meðhöndla tölvur/tölvubúnað
+ 
