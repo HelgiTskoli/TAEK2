@@ -29,3 +29,11 @@ hafa anti-static arm bönd eða snerta jarðað málmstykki hvað úr hverju þe
 **Svar**: Þegar verið er að velja spennugjafa þarf að hafa í huga hversu mikið rafmagn í wöttum þú telur þig þurfa,
 Hvaða form-factor spennugjafinn er (Hvernig hún passar í kassann) og hveru mikla peninga þú hefur að eyða í hana.
  
+##6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+**Svar**: Hér að neðan hef ég skrifað röðina.
+1. Að Finna vandamálið
+2. Finna kenningu hvað geti mögulega verið að valda vandamálinu.
+3. Prófa kenninguna og sjá hvað er að og hvort þú hefur rétt fyrir þér.
+4. Gera plan aðgerða hvernig þú ætlar að leysa vanamálið og koma með lausn.
+5. Staðfesta að öll vinnan sem þú lagðir í þetta hafi gengið upp og að talvan sé að hagasér eðlilega og fyrirbyggja fleiri vandamál. 
+6. Skrá það hvað vandamálið var, fundir þínir, aðgerðir og útkomur í skjal.
