@@ -20,7 +20,7 @@ gögn hafa verið "skrifuð" á það.
 ####- Gera reglulegar scannanir yfir harða diska 
 
 ##4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
-##verjast því þegar unnið er með tölvubúnað?
+verjast því þegar unnið er með tölvubúnað?
 **Svar**: ESD stendur fyrir "Electrostratic Discharge" ESD er þegar rafmagn byggist upp nóg stöðurafmagn
 til að það fari að leiðast í aðra hluti sem geta eyðileggst. Til að verjast ESD getum við passað okkur að
 hafa anti-static arm bönd eða snerta jarðað málmstykki hvað úr hverju þegar verið er að meðhöndla tölvur/tölvubúnað
@@ -37,3 +37,9 @@ Hvaða form-factor spennugjafinn er (Hvernig hún passar í kassann) og hveru mi
 4. Gera plan aðgerða hvernig þú ætlar að leysa vanamálið og koma með lausn.
 5. Staðfesta að öll vinnan sem þú lagðir í þetta hafi gengið upp og að talvan sé að hagasér eðlilega og fyrirbyggja fleiri vandamál. 
 6. Skrá það hvað vandamálið var, fundir þínir, aðgerðir og útkomur í skjal.
+
+##7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+**Svar**: Opnar spurningar leyfa viðskiptavinum að útskýra vandamálið með sýnum eigin orðum. Nota á þetta til að fá
+almennar upplýsingar um vandamálið.
+Lokaðar spurningar eru byggðar af opnu spurningunum til að fá meiri upplýsingar um málið. Lokaðar spurningar eru oftast já/nei spurningar.
