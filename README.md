@@ -46,3 +46,6 @@ Lokaðar spurningar eru byggðar af opnu spurningunum til að fá meiri upplýsi
 
 ##8. Hvað eru jaðartæki?
 **Svar**: Jaðartæki eru tæki sem hægt er að nota með tölvu. t.d. prentarar, vefmyndavélar o.fl.
+
+##9. Nefndu þrjú dæmi um inntakstæki.
+**Svar**: Míkrafónn, mýs, lyklaborð, teikniborð o.fl
