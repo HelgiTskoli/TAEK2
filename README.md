@@ -24,4 +24,8 @@ gögn hafa verið "skrifuð" á það.
 **Svar**: ESD stendur fyrir "Electrostratic Discharge" ESD er þegar rafmagn byggist upp nóg stöðurafmagn
 til að það fari að leiðast í aðra hluti sem geta eyðileggst. Til að verjast ESD getum við passað okkur að
 hafa anti-static arm bönd eða snerta jarðað málmstykki hvað úr hverju þegar verið er að meðhöndla tölvur/tölvubúnað
+
+##5. Hvað þarf að hafa í huga við val á spennugjöfum?
+**Svar**: Þegar verið er að velja spennugjafa þarf að hafa í huga hversu mikið rafmagn í wöttum þú telur þig þurfa,
+Hvaða form-factor spennugjafinn er (Hvernig hún passar í kassann) og hveru mikla peninga þú hefur að eyða í hana.
  
