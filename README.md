@@ -43,3 +43,6 @@ Nefnið dæmi um báðar gerðir af spurningum.
 **Svar**: Opnar spurningar leyfa viðskiptavinum að útskýra vandamálið með sýnum eigin orðum. Nota á þetta til að fá
 almennar upplýsingar um vandamálið.
 Lokaðar spurningar eru byggðar af opnu spurningunum til að fá meiri upplýsingar um málið. Lokaðar spurningar eru oftast já/nei spurningar.
+
+##8. Hvað eru jaðartæki?
+**Svar**: Jaðartæki eru tæki sem hægt er að nota með tölvu. t.d. prentarar, vefmyndavélar o.fl.
